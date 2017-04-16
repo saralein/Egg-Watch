@@ -25,6 +25,7 @@
     "babel-preset-stage-2": "^6.24.1",
     "express": "^4.15.2",
     "path": "^0.12.7",
+    "phaser": "^2.6.2",
     "react": "^15.5.3",
     "react-dom": "^15.5.3",
     "react-router": "^4.0.0",
